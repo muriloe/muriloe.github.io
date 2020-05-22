@@ -1,15 +1,15 @@
 # Site settings
-title: A blog about lorem ipsum dolor sit amet
-description: A blog about lorem ipsum dolor sit amet
+title: Murlo Erhardt Portifolio
+description: Check all the informations about this lovable developer
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Murilo Erhardt
-user_description: MEAN stack developer (Mongo, Express, Angular, Node), worked with mobile and web projects, and also as a business analyst. Student of Apple Developer Academy (ADA), also has experience with iOS development.  
-user_title: Full Stack Developer
+user_description: My main skills are Flutter, Vue-js, Angular, Xamarin, iOS (Swift) and node.js. Bachelor of Information Systems PUCPR, working in developmente area since 2014. In 2015, join the Apple Developer Academy where I was curious about Mobile development. I also worked on some front-end projects and also as a business analyst. Therefore, my main skill and the one I feel most satisfied with is to understand the customer's needs and develop a good interface to solve their demand.  
+user_title: Mobile | Front-end Developer
 email: murilo0121@gmail.com
-linkedinUser: https://www.linkedin.com/in/murilo-erhardt-a01a6bb0/
+linkedinUser: https://www.linkedin.com/in/murilo-erhardt/?locale=en_US
 github_username:  https://github.com/muriloe
 facebookUser:  https://www.facebook.com/muriloe
 
