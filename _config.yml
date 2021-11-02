@@ -17,4 +17,5 @@ facebookUser:  https://www.facebook.com/muriloe
 google-analytics:
   id: "UA-138371399-1"
 
+include: [".well-known"]
 exclude: ['package.json', 'src' , 'node_modules']
