@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: muriloe.github.io
+Token: 665476148f8841206e04b50fb6e923e6c0623f66fdb603ed4fe438b3a5eca66d
