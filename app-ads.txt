@@ -8,11 +8,11 @@ pubmatic.com, 160194, RESELLER, 5d62403b186f2ace
 improvedigital.com, 1662, RESELLER
 conversantmedia.com, 100293, RESELLER, 03113cd04947736d
 appnexus.com, 12223, RESELLER, f5ab79cb980f11d1
-smartadserver.com, 4039, RESELLER
-appnexus.com, 13074, RESELLER, f5ab79cb980f11d1
 aol.com, 59025, RESELLER, e1a5b5b6e3255540
 yahoo.com, 59025, RESELLER, e1a5b5b6e3255540
 improvedigital.com, 1341, RESELLER
+appnexus.com, 13074, RESELLER, f5ab79cb980f11d1
+smartadserver.com, 4039, RESELLER
 conversantmedia.com, 100343, RESELLER, 03113cd04947736d
 rhythmone.com, 4270213217, RESELLER, a670c89d4a324e47
 video.unrulymedia.com, 4270213217, RESELLER
