@@ -1,9 +1,9 @@
 mars.media, 107588, DIRECT, 8624339f102fb076
-improvedigital.com, 1210, RESELLER
-castify.ai, 127588, DIRECT
-improvedigital.com, 1221, RESELLER
 themediagrid.com, PLTXGE, RESELLER, 35d5010d7789b49d
 themediagrid.com, YUPM3V, RESELLER, 35d5010d7789b49d
+castify.ai, 127588, DIRECT
+improvedigital.com, 1210, RESELLER
+improvedigital.com, 1221, RESELLER
 pubmatic.com, 160194, RESELLER, 5d62403b186f2ace
 improvedigital.com, 1662, RESELLER
 appnexus.com, 12223, RESELLER, f5ab79cb980f11d1
