@@ -1,19 +1,19 @@
 mars.media, 107588, DIRECT, 8624339f102fb076
 castify.ai, 127588, DIRECT
-improvedigital.com, 1662, RESELLER
 improvedigital.com, 1221, RESELLER
-improvedigital.com, 1341, RESELLER
 improvedigital.com, 1210, RESELLER
+improvedigital.com, 1341, RESELLER
+improvedigital.com, 1662, RESELLER
 pubmatic.com, 160194, RESELLER, 5d62403b186f2ace
+appnexus.com, 12223, RESELLER, f5ab79cb980f11d1
 aol.com, 59025, RESELLER, e1a5b5b6e3255540
 yahoo.com, 59025, RESELLER, e1a5b5b6e3255540
-appnexus.com, 13074, RESELLER, f5ab79cb980f11d1
-appnexus.com, 12223, RESELLER, f5ab79cb980f11d1
 themediagrid.com, PLTXGE, RESELLER, 35d5010d7789b49d
 themediagrid.com, YUPM3V, RESELLER, 35d5010d7789b49d
+appnexus.com, 13074, RESELLER, f5ab79cb980f11d1
 smartadserver.com, 4039, RESELLER
-smaato.com, 1100050531, RESELLER, 07bcf65f187117b4
 conversantmedia.com, 100293, RESELLER, 03113cd04947736d
+smaato.com, 1100050531, RESELLER, 07bcf65f187117b4
 pubmatic.com, 160195, RESELLER, 5d62403b186f2ace
 rhythmone.com, 4270213217, RESELLER, a670c89d4a324e47
 conversantmedia.com, 100343, RESELLER, 03113cd04947736d
@@ -22,6 +22,79 @@ video.unrulymedia.com, 4270213217, RESELLER
 yieldmo.com, 2888605025750164242, RESELLER
 gitberry.com, 64Q, DIRECT
 beachfront.com, 805, RESELLER, e2541279e8e2ca4d
+mars.media, 107588, DIRECT, 8624339f102fb076
+castify.ai, 127588, DIRECT
+themediagrid.com, PLTXGE, RESELLER, 35d5010d7789b49d
+themediagrid.com, YUPM3V, RESELLER, 35d5010d7789b49d
+pubmatic.com, 160194, RESELLER, 5d62403b186f2ace
+improvedigital.com, 1210, RESELLER
+improvedigital.com, 1221, RESELLER
+improvedigital.com, 1341, RESELLER
+improvedigital.com, 1662, RESELLER
+conversantmedia.com, 100293, RESELLER, 03113cd04947736d
+appnexus.com, 12223, RESELLER, f5ab79cb980f11d1
+appnexus.com, 13074, RESELLER, f5ab79cb980f11d1
+aol.com, 59025, RESELLER, e1a5b5b6e3255540
+yahoo.com, 59025, RESELLER, e1a5b5b6e3255540
+smartadserver.com, 4039, RESELLER
+smaato.com, 1100050531, RESELLER, 07bcf65f187117b4
+pubmatic.com, 160195, RESELLER, 5d62403b186f2ace
+rhythmone.com, 4270213217, RESELLER, a670c89d4a324e47
+conversantmedia.com, 100343, RESELLER, 03113cd04947736d
+sonobi.com, a7c3746d6a, RESELLER, d1a215d9eb5aee9e
+video.unrulymedia.com, 4270213217, RESELLER
+yieldmo.com, 2888605025750164242, RESELLER
+gitberry.com, 64Q, DIRECT
+beachfront.com, 805, RESELLER, e2541279e8e2ca4d
+mars.media, 107588, DIRECT, 8624339f102fb076
+improvedigital.com, 1221, RESELLER
+improvedigital.com, 1210, RESELLER
+pubmatic.com, 160194, RESELLER, 5d62403b186f2ace
+appnexus.com, 12223, RESELLER, f5ab79cb980f11d1
+improvedigital.com, 1662, RESELLER
+aol.com, 59025, RESELLER, e1a5b5b6e3255540
+yahoo.com, 59025, RESELLER, e1a5b5b6e3255540
+themediagrid.com, PLTXGE, RESELLER, 35d5010d7789b49d
+themediagrid.com, YUPM3V, RESELLER, 35d5010d7789b49d
+conversantmedia.com, 100293, RESELLER, 03113cd04947736d
+smartadserver.com, 4039, RESELLER
+appnexus.com, 13074, RESELLER, f5ab79cb980f11d1
+improvedigital.com, 1341, RESELLER
+smaato.com, 1100050531, RESELLER, 07bcf65f187117b4
+video.unrulymedia.com, 4270213217, RESELLER
+rhythmone.com, 4270213217, RESELLER, a670c89d4a324e47
+yieldmo.com, 2888605025750164242, RESELLER
+sonobi.com, a7c3746d6a, RESELLER, d1a215d9eb5aee9e
+castify.ai, 127588, DIRECT
+gitberry.com, 64Q, DIRECT
+pubmatic.com, 160195, RESELLER, 5d62403b186f2ace
+beachfront.com, 805, RESELLER, e2541279e8e2ca4d
+conversantmedia.com, 100343, RESELLER, 03113cd04947736d
+mars.media, 107588, DIRECT, 8624339f102fb076
+beachfront.com, 805, RESELLER, e2541279e8e2ca4d
+improvedigital.com, 1210, RESELLER
+improvedigital.com, 1221, RESELLER
+improvedigital.com, 1341, RESELLER
+appnexus.com, 12223, RESELLER, f5ab79cb980f11d1
+pubmatic.com, 160195, RESELLER, 5d62403b186f2ace
+pubmatic.com, 160194, RESELLER, 5d62403b186f2ace
+gitberry.com, 64Q, DIRECT
+improvedigital.com, 1662, RESELLER
+castify.ai, 127588, DIRECT
+smartadserver.com, 4039, RESELLER
+sonobi.com, a7c3746d6a, RESELLER, d1a215d9eb5aee9e
+conversantmedia.com, 100293, RESELLER, 03113cd04947736d
+appnexus.com, 13074, RESELLER, f5ab79cb980f11d1
+aol.com, 59025, RESELLER, e1a5b5b6e3255540
+yahoo.com, 59025, RESELLER, e1a5b5b6e3255540
+indexexchange.com, 195812, RESELLER, 50b1c356f2c5c8fc
+yieldmo.com, 2888605025750164242, RESELLER
+themediagrid.com, PLTXGE, RESELLER, 35d5010d7789b49d
+themediagrid.com, YUPM3V, RESELLER, 35d5010d7789b49d
+video.unrulymedia.com, 4270213217, RESELLER
+rhythmone.com, 4270213217, RESELLER, a670c89d4a324e47
+smaato.com, 1100050531, RESELLER, 07bcf65f187117b4
+conversantmedia.com, 100343, RESELLER, 03113cd04947736d
 mars.media, 107588, DIRECT, 8624339f102fb076
 beachfront.com, 805, RESELLER, e2541279e8e2ca4d
 improvedigital.com, 1210, RESELLER
@@ -278,4 +351,76 @@ triplelift.com, 10522, RESELLER, 6c33edb13117fd86
 yahoo.com, 58935, RESELLER, e1a5b5b6e3255540
 lemmatechnologies.com, 188, RESELLER, 7829010c5bebd1fb
 appnexus.com, 13227, RESELLER
+outbrain.com, 0052a1ede0a266bb35758ae42f0a6f91db, DIRECT
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a # Premium video demand aka Telaria
+spotxchange.com, 225721, RESELLER # Premium video demand
+Freewheel.tv, 741650, RESELLER # Premium video demand
+rubiconproject.com, 17130, RESELLER, 0bfd66d529a55807 # Premium video demand
+lkqd.net, 450, RESELLER, 59c49fa9598a0117 # Premium video demand
+openx.com, 540393169, RESELLER, 6a698e2ec38604c6 # Premium video demand
+rubiconproject.com, 19668, RESELLER, 0bfd66d529a55807
+indexexchange.com, 190856, RESELLER, 50b1c356f2c5c8fc # Premium Video Demand
+pubmatic.com, 158615, RESELLER, 5d62403b186f2ace # Premium video & display demand
+vidazoo.com, 1773068026, RESELLER, b6ada874b4d7d0b2 # Premium Video Demand
+lkqd.net, 602, RESELLER, 59c49fa9598a0117 # Premium Video Demand
+beachfront.com, 14027, RESELLER, e2541279e8e2ca4d # Premium Video Demand
+smartadserver.com, 3820, RESELLER # Premium Video Demand
+video.unrulymedia.com, 367782854, RESELLER # Premium video demand from Outbrain
+indexexchange.com, 193091, RESELLER, 50b1c356f2c5c8fc # Premium video demand from Outbrain
+pubmatic.com, 160065, RESELLER, 5d62403b186f2ace # Premium video demand from Outbrain
+synacor.com, 82423, RESELLER, e108f11b2cdf7d5b # Premium video demand from Outbrain
+improvedigital.com, 1863, RESELLER # Premium video demand from Outbrain
+freewheel.tv, 1220655, RESELLER # Premium video demand from Outbrain
+smaato.com, 1100048704, RESELLER, 07bcf65f187117b4 # Premium video demand from Outbrain
+contextweb.com, 562145, RESELLER, 89ff185a4c4e857c # Premium video demand from Outbrain
+yahoo.com, 59052, RESELLER # Premium Video Demand
+risecodes.com,6022acddc8b2f90001767980, RESELLER
+yahoo.com, 59040, RESELLER, e1a5b5b6e3255540
+emxdgt.com, 2014, RESELLER, 1e1d41537f7cad7f
+vi.ai, g-003ce52977addd0bc4d4c141d0a373f320, DIRECT #instream video by outbrain
+google.com, pub-5617098146054077, RESELLER, f08c47fec0942fa0 #instream video by outbrain
+pubmatic.com, 158055, RESELLER, 5d62403b186f2ace #instream video by outbrain
+xandr.com, 10736, RESELLER #instream video by outbrain
+rubiconproject.com, 21506, RESELLER, 0bfd66d529a55807 #instream video by outbrain
+rhythmone.com, 1014191143, RESELLER, a670c89d4a324e47 #instream video by outbrain
+video.unrulymedia.com, 1014191143, RESELLER #instream video by outbrain
+Indexexchange.com, 190500, RESELLER #instream video by outbrain
+smartadserver.com,2776,RESELLER #instream video by outbrain
+openx.com, 540362347, RESELLER, 6a698e2ec38604c6 #instream video by outbrain
+spotxchange.com, 304237, RESELLER, 7842df1d2fe2db34 #instream video by outbrain
+spotx.tv, 304237, RESELLER, 7842df1d2fe2db34 #instream video by outbrain
+yahoo.com, 59658, RESELLER #instream video by outbrain
+media.net, 8CUIH830U, RESELLER #instream video by outbrain
+triplelift.com, 11547, RESELLER, 6c33edb13117fd86 #instream video by outbrain
+improvedigital.com, 1552, Reseller #instream video by outbrain
+contextweb.com, 562709, RESELLER, 89ff185a4c4e857c
+aps.amazon.com, 3965, RESELLER #instream video by outbrain
+imds.tv, 82423, RESELLER, ae6c32151e71f19d # Premium video demand from Outbrain 
+kaiads.com, 37907027-6df6-40cd-a683-98a5bb5f3da2, DIRECT
+freewheel.tv, 1220559, RESELLER # Premium video demand from Outbrain
+freewheel.tv, 1133073, RESELLER #instream video by outbrain
+smaato.com, 1100054606, RESELLER, 07bcf65f187117b4 # Premium video demand from Outbrain
+sovrn.com, 267974, RESELLER, fafdf38b16bf6b2b #instream video by outbrain
+adform.com, 2611, RESELLER #instream video by outbrain
+sharethrough.com, c21oBkqP, RESELLER, d53b998a7bd4ecd2 #outbrain_all formats
+sharethrough.com, uDlHlVKG, RESELLER, d53b998a7bd4ecd2 #outbrain_video
+vi.ai, g-00f0493a44aab8281336c34702a8d480a2, DIRECT #instream video by outbrain
+kaiads.com, 37907027-6df6-40cd-a683-98a5bb5f3da2, DIRECT
+Media.net, 8CU33YS38, RESELLER # all formats
+Media.net, 8CULQ3LW5, RESELLER #outbrain_video
+lemmatechnologies.com, 1568, DIRECT, 7829010c5bebd1fb
+pubmatic.com, 156494, RESELLER, 5d62403b186f2ace
+video.unrulymedia.com, 8167205979129043832, RESELLER
+onetag.com, 8d4bbebb8fa701e, DIRECT
+appnexus.com, 2007, RESELLER
+affinity.com, 965, RESELLER
+smartadserver.com, 3564 , RESELLER
+xandr.com,13291,DIRECT
+magicmedia.ae, 6f828808, DIRECT
+growzee.io, 031ae447-d523-4804-b4c7-be282ad874c3, DIRECT
+instal.com, 031ae447-d523-4804-b4c7-be282ad874c3, DIRECT
+advangelists.com, 57b9c5d42a8fe216162345a05b6e6afb, RESELLER, 60d26397ec060f98
+connatix.com, 1742365173855029, DIRECT, 2af98acdee0e81ed
+Contextweb.com,563169,RESELLER,89ff185a4c4e857c
 kaiads.com, 752acc98-e416-4dff-b81c-a1c8634b2e95, DIRECT
